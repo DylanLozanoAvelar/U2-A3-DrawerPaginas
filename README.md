@@ -18,14 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 - a.21308051280373@cbtis128.edu.mx
 
 ## Links de Referencia
-- Documento de Google Drive: https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view
-
-## Resultado de la aplicacion
-## PageRouter en FlutLab - Flutter Online IDE
-- Dylan Lozano Avelar
-- a.21308051280373@cbtis128.edu.mx
-
-## Links de Referencia
 - Documento de Github: [https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view](https://github.com/nava128/UII_Act3_Drawer.git)
 - Ejemplos: https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7
 
